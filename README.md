@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">💻 Minhas linguagens e ferramentas</h2>
+<h1 align="left">💻 Minhas linguagens e ferramentas</h1>
 
 ###
 
