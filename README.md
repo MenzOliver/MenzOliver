@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Engenheiro de Software em formação. Aqui você pode acompanhar todos os meus projetos e processos de aprendizados!</p>
+<h3 align="left">Engenheiro de Software em formação. Aqui você pode acompanhar todos os meus projetos e processos de aprendizados!</h3>
 
 ###
 
@@ -29,7 +29,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MenzOliver&radius=16&theme=nord&area=true&order=5&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%A3o&hide_border=true&hide_title=false" height="270" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MenzOliver&radius=16&theme=github-light&area=false&order=5&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%A3o&hide_border=true&hide_title=false" height="270" alt="activity-graph graph"  />
 </div>
 
 ###
