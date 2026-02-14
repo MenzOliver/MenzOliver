@@ -58,7 +58,3 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MenzOliver&theme=tokyonight&hide_border=true" height="170" />
 </p>
-
----
-
-<p align="center"><i>"O sucesso é a soma de pequenos esforços repetidos dia após dia." — Robert Collier</i></p>
