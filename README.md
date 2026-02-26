@@ -41,13 +41,15 @@
 
 | Projeto | Tech Stack | Descrição |
 |---------|------------|-----------|
-| [Rastros-HSR](https://github.com/MenzOliver/Rastros-HSR) | Java, VS Code | Emulador/calculadora de recursos para Honkai: Star Rail (rastros e poder de desbravamento) |
+| [Rastros-HSR](https://github.com/MenzOliver/Rastros-HSR) | Java, VS Code | Calculadora de recursos para Honkai: Star Rail (rastros e poder de desbravamento) |
+| [entregasApp](https://github.com/MenzOliver/entregasApp) | Java, VS Code | Simulador de Entregas Delivery |
 
 ---
 
 ## Certificações
 
-- **Lógica de Programação e Algoritmos** — Udemy *(2024)*
+- [Certificado EF SET Inglês 74/100 (C2 Domínio Pleno)](https://cert.efset.org/pt/sKA5e2) — *EF SET (2026)*
+- [Lógica de Programação e Algoritmos](https://www.udemy.com/certificate/UC-01636dec-7f34-4b04-8537-1b9d2f68386d/) — *Udemy (2024)*
 
 ---
 
