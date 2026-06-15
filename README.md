@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="400">
-<img src="./tucano.jpg" width="400" alt="Imagem de perfil">
+<img src="./IMG_20260614_215731.jpg" width="400" alt="Imagem de perfil">
 </td>
 
 <td valign="top">
