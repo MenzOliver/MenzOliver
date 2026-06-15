@@ -17,5 +17,6 @@
   <ul>
     <li><a href="https://github.com/MenzOliver/Rastros-HSR"><b>Rastros-HSR</b></a>: Calculadora de recursos para Honkai: Star Rail.</li>
     <li><a href="https://github.com/MenzOliver/entregasApp"><b>entregasApp</b></a>: Simulador de entregas delivery.</li>
+    <li><a href="https://github.com/MenzOliver/OoT3D_Autosave.git"><b>Oot3D Autosave</b></a>: Sistema de autosave para Zelda Ocarina of Time 3D.</li>
   </ul>
 </td>
